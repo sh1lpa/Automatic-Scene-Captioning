@@ -1,3 +1,3 @@
 # Automatic-Scene-Captioning
-
-Automatically generating this textual description from an artificial system is the task of image captioning.
+REFER :
+https://www.analyticsvidhya.com/blog/2018/04/solving-an-image-captioning-task-using-deep-learning/
