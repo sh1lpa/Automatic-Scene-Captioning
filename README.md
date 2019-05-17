@@ -1,2 +1,3 @@
 # Automatic-Scene-Captioning
-Automatic Image Captioning using Deep Learning (CNN and LSTM)
+
+Automatically generating this textual description from an artificial system is the task of image captioning.
